@@ -46,7 +46,7 @@ const LandingPage = () => {
             <Link to="/login" className="px-4 py-2 text-white bg-green-500 rounded-lg">
               Masuk
             </Link>
-            <Link to="/register" className="px-4 py-2 text-green-500 border border-green-500 rounded-lg">
+            <Link to="/Register" className="px-4 py-2 text-green-500 border border-green-500 rounded-lg">
               Daftar
             </Link>
           </div>
@@ -71,7 +71,7 @@ const LandingPage = () => {
               Membantu individu dan rumah tangga dalam mengelola keuangan secara efektif, serta memberikan analisis keuangan yang mudah dipahami.
             </p>
             <Link
-              to="/dashboard"
+              to="/login"
               className="mt-6 inline-block px-6 py-3 text-white bg-green-600 rounded-lg hover:bg-green-700"
             >
               Masuk
